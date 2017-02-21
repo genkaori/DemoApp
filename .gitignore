@@ -1,0 +1,15 @@
+*.class
+
+.mtj.tmp/
+
+*.war
+*.ear
+*.classpath
+*.project
+
+
+.settings/
+
+.idea/
+
+target/
